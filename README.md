@@ -16,7 +16,7 @@ This project demonstrates a full ETL (Extract, Transform, Load) process on a raw
 
 ##  Dataset Source
 The raw dataset used in this project can be found on Kaggle: 
-[Link to Kaggle Dataset]([[https://www.kaggle.com/datasets/themaninder/monster-com-job-dataset](https://www.kaggle.com/code/ankkur13/perfect-dataset-to-get-the-hands-dirty/input)]](https://www.kaggle.com/code/ankkur13/perfect-dataset-to-get-the-hands-dirty/input))
+[Link to Kaggle Dataset](https://www.kaggle.com/code/ankkur13/perfect-dataset-to-get-the-hands-dirty/input)
 
 ##  Files in this Repository
 - `Monster_Jobs_Cleaning.ipynb`: The full Python source code and analysis.
